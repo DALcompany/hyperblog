@@ -6,4 +6,6 @@ viviendo en todo el mundo
 
 Hoy hablaremos de su historia.
 
-En camara parece gordo pero en verdad no es tan gordo
+En camara parece gordo pero en verdad no es tan gordo.
+
+Hoy es el Front-End de Connectis
