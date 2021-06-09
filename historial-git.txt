@@ -1,0 +1,448 @@
+1  pwd
+    2  ls
+    3  cd ..
+    4  cd..
+    5  cd ,,
+    6  cd ..
+    7  cd ..
+    8  ls
+    9  cd usr
+   10  ls
+   11  cd ..
+   12  cd ..
+   13  ls
+   14  cd c
+   15  ls
+   16  cd xampp
+   17  cd REPO-REMOTOS/
+   18  cd beco
+   19  git push
+   20  git status
+   21  git status
+   22  git push
+   23  ls
+   24  git --v
+   25  git --version
+   26  pwd
+   27  cls
+   28  clear
+   29  cd
+   30  cd ..
+   31  cd /
+   32  ls
+   33  cd usr
+   34  ls
+   35  cd ..
+   36  cd dev
+   37  ls
+   38  cd ..
+   39  cd..
+   40  cd ..
+   41  ls
+   42  cd
+   43  cd /c
+   44  ls
+   45  cd Users/
+   46  ls
+   47  cd Connectis
+   48  cd Users/
+   49  ls
+   50  cd Desktop/
+   51  ls
+   52  cd platzi
+   53  ls
+   54  cd ..
+   55  cd Platzi
+   56  cd Git
+   57  mkdir proyecto1
+   58  pwd
+   59  ls
+   60  cd proyecto1/
+   61  clear
+   62  pwd
+   63  git init
+   64  ls -al
+   65  git status
+   66  git add historia.txt
+   67  git status
+   68  git rm historia.txt
+   69  git status
+   70  git rm historia.txt
+   71  ls
+   72  git rm -f historia.txt
+   73  git status
+   74  git add historia.txt
+   75  git status
+   76  git rm --cached historia.txt
+   77  git status
+   78  git add historia.txt
+   79  git status
+   80  git commit -m "Este es el primer commit de este archivo"
+   81  git config --global credential.helper
+   82  git config --global credential.helper manager
+   83  git config --global user.name
+   84  git config --global user.email
+   85  git config --list
+   86  git config --list -origin
+   87  git config --list --show-origin
+   88  git status
+   89  ls
+   90  cat historia.txt
+   91  git status
+   92  git add historia.txt
+   93  git status
+   94  git commit -m "Cambios al archivo historia"
+   95  git log historia.txt
+   96  git show historia.txt
+   97  git commit -m "Agregamos cambios a su estatura"
+   98  git add historia.txt
+   99  git commit -m "Agregamos cambios a su estatura"
+  100  status
+  101  git add .
+  102  git commit -m "Agregamos el cargo de la persona"
+  103  git show historia.txt
+  104  git log historia.txt
+  105  git diff 3c77d6536157fe48d3b05925ea7e76af8371ba83 8df88132310d27cd2c7667ae81b96dcdfaf6b065
+  106  git diff 8df88132310d27cd2c7667ae81b96dcdfaf6b065 3c77d6536157fe48d3b05925ea7e76af8371ba83
+  107  git log historia.txt
+  108  git status
+  109  git add .
+  110  git status
+  111* git status
+  112  git status
+  113  git diff
+  114  git add .
+  115  git commit -m "Arranco mi proyecto real con html y css"
+  116  git status
+  117  git log
+  118  git add .
+  119  git commit -m "Cambio de vida"
+  120  git add .
+  121  git commit -m "Cambio de maetria"
+  122  git log --stat
+  123  git checkout 7615cddb5d40938ee75c5798481641d1900dd940
+  124  git checkout master historia.txt
+  125  git checkout master
+  126  git status
+  127  git commit -m "Commit en su version mas reciente"
+  128  git add .
+  129  git commit -m "Commit en su version mas reciente"
+  130  git status
+  131  git branch cabecera
+  132  git show
+  133  git checkout cabecera
+  134  git status
+  135  git status
+  136  git add blogpost.html
+  137  git commit
+  138  git status
+  139  git log
+  140  clear
+  141  git checkout master
+  142  git checkout cabecera
+  143  git status
+  144  git add .
+  145  git commit -am "Finalizada la cabecera con diseño azul"
+  146  git checkout master
+  147  git status
+  148  git add blogpost.html
+  149  git add blogpost.html
+  150  git commit -am "Agrego nuevo parrafo"
+  151  git merge cabecera
+  152  git log
+  153  git status
+  154  git add blogpost.html
+  155  git commit -am "Correcciones de tipografia en la palabra rockstart"
+  156  git branch cabecera
+  157  git checkout cabecera
+  158  git merge master
+  159  git commit -am "Modifique la cabecera y el color del texto"
+  160  git checkout master
+  161  git commit -am "Agregue suscripcion, cambie la cabecera maetra y puse todo azul"
+  162  git add .
+  163  git status
+  164  git commit -am "Agregue suscripcion, cambie la cabecera maetra y puse todo el texto azul"
+  165  git merge cabecera
+  166  git status
+  167  git commit -am "Solucione conflicto de ramas al fusionar"
+  168  git status
+  169  git checkout cabecera
+  170  git checkout master
+  171  pwd
+  172  git remote add origin https://github.com/DALcompany/hyperblog.git
+  173  git remote
+  174  git remote -v
+  175  git push origin master
+  176  git pull origin master --allow-unrelated-histories
+  177  git status
+  178  ls -l
+  179  ls
+  180  ls -al
+  181  git pull origin master
+  182  git push origin main
+  183  git push origin master:main
+  184  git pull origin main --allow-unrelated-histories
+  185  git checkout main
+  186  git checkout master
+  187  git checkout main
+  188  git merge master
+  189  git push origin main
+  190  git push origin main
+  191  git status
+  192  git pull origin main --allow-unrelated-histories
+  193  git log
+  194  clear
+  195  cd //
+  196  cd /
+  197  cd ..
+  198  cd/c
+  199  cd /c
+  200  ls
+  201  cd Users
+  202  ls
+  203  cd Connectis
+  204  git config --global
+  205  git config
+  206  git config --list
+  207  git config --global user.email "dtoro.a.s@gmail.com"
+  208  git config --list
+  209  git config --global user.name "Diego Toro"
+  210  git config -l
+  211  ssh-keygen -t rsa -b 4096 -C "dtoro.a.s@gmail.com"
+  212  eval $
+  213  eval $(ssh-agent -s)
+  214  ~
+  215  ssh-add ~/.ssh/id_rsa
+  216  cd ~/pryecto1
+  217  cd ~/proyecto1
+  218  cd ~/Platzi/proyecto1
+  219  cd ~/Platzi/
+  220  ls -alk
+  221  ls -al
+  222  cd ~/Desktop/Platzi/proyecto1
+  223  cd ~/Desktop
+  224  ls
+  225  cd Platzi
+  226  ls
+  227  cd Git/proyecto1/
+  228  git remote -v
+  229  git remote set-url origin
+  230  git remote set-url origin git@github.com:DALcompany/hyperblog.git
+  231  git remote -v
+  232  git pull
+  233  git pull origin main
+  234  git status
+  235  git diff
+  236  git commit -am "Una version de el Hyperblog"
+  237  git pull origin master
+  238*
+  239  git status
+  240  git pull origin main
+  241  git push origin main
+  242  git log --graph
+  243  git log --graph --decorate --oneline
+  244  alias gitHistoryGraph"git log --graph --decorate --oneline"
+  245  alias gitHistoryGraph "git log --graph --decorate --oneline"
+  246  alias gitHistoryGraph="git log --graph --decorate --oneline"
+  247  gitHistoryGraph
+  248  git tag -a v0.1 -m "Resultado de las primeras clases del curso" b576aa6
+  249  git tag
+  250  git show-ref --tags
+  251  git pull origin main
+  252  git push origin --tags
+  253  gitHistoryGraph
+  254  git tag -a dormido -m "asdfknhalksdjjnadl"
+  255  git tag
+  256  git tag -d dormido
+  257  git tag
+  258  git tag -a dormido -m "asdfknhalksdjjnadl" 7a64c81
+  259  git tag
+  260  gitHistoryGraph
+  261  git pull origin main
+  262  git push origin --tags
+  263  gitHistoryGraph
+  264  git tag
+  265  git tag -d dormido
+  266  git status
+  267  git pull origin main
+  268  git push origin --tags
+  269  git push origin :refs/tags/dormido
+  270  git branch
+  271  git checkout cabecera
+  272  git checkout main
+  273  gitHistoryGraph
+  274  git show-branch
+  275  git show-branch --old
+  276  git show-branch --all
+  277  gitk
+  278  git pull origin main
+  279  git branch header
+  280  git branch footer
+  281  git branch
+  282  git push origin header
+  283  git push origin footer
+  284  git pull origin main
+  285  git branch
+  286  git status
+  287  git pull origin main
+  288  git branch
+  289  git checkout header
+  290  git branch
+  291  git pull origin header
+  292  git status
+  293  git commit -am "Agrego imagenes para header"
+  294  git add image/spacex.png
+  295  git commit -am "Agrego imagenes para header"
+  296  gitHistoryGraph
+  297  git pull origin header
+  298  git push origin header
+  299  git status
+  300  git add blogpost.html
+  301  git add css/estilos.css
+  302  git status
+  303  git commit -am "Estilos mejorados y logo nuevo"
+  304  git pull origin header
+  305  git branch
+  306  git checkout footer
+  307  git status
+  308  git add blogpost.html | git add css/estilos.css
+  309  git status
+  310  git pull origin footer
+  311  git status
+  312  git diff
+  313  git status
+  314  git add .
+  315  git status
+  316  git commit -am "Footer terminado"
+  317  gitHistoryGraph
+  318  git push origin footer
+  319  git branch
+  320  git checkout header
+  321  git pull origin header
+  322  git checkout footer
+  323  git pull origin footer
+  324  git checkout origin main
+  325  git checkout main
+  326  git pull origin main
+  327  git status
+  328  git merge header
+  329  git pull origin main
+  330  git push origin main
+  331  git branch
+  332  git merge foote
+  333  git status
+  334  git pull origin main
+  335  git merge footer
+  336  git status
+  337  git commit -am "Solucion de conflicto de ramas header y footer"
+  338  gitHistoryGraph
+  339  gitk
+  340  git branch
+  341  git branch fix-typo
+  342  git branch
+  343  git pull origin main
+  344  git checkout fix-typo
+  345  git checkout
+  346  git branch
+  347  git status
+  348  git status
+  349  git diff
+  350  git push origin fix-typo
+  351  git status
+  352  git commit -am "Correcciones ortograficas"
+  353  git push origin fix-typo
+  354  git branch
+  355  gitHistoryGraph
+  356  git checkout main
+  357  git pull origin main
+  358  gitk
+  359  gitHistoryGraph
+  360  gitk
+  361  git pull origin main
+  362  gitk
+  363  git status
+  364  git pull origin main
+  365  git branch description
+  366  git checkout description
+  367  git statui
+  368  git status
+  369  git push origin description
+  370  git checkout main
+  371  git pull origin main
+  372  git merge description
+  373  gitHistoryGraph
+  374  git checkout description
+  375  git status
+  376  git add .
+  377  git push origin description
+  378  git status
+  379  git commit -am "Agrego la descripcion de este curso"
+  380  git push origin description
+  381  gitHistoryGraph
+  382  git status
+  383  git checkout main
+  384  git pull origin main
+  385  git merge description
+  386  git push origin main
+  387  gitk
+  388  gitHistoryGraph
+  389  git pull origin main
+  390  git branch experimento
+  391  git status
+  392  git checkout experimento
+  393  gitk
+  394  git status
+  395  git commit -am "Exp 1"
+  396  gitHistoryGraph
+  397  git commit -am "Exp 2"
+  398  git checkout
+  399  git checkout master
+  400  git pull origin master
+  401  git commit -am "Master 2"
+  402  git checkout experimento
+  403  gitHistoryGraph
+  404  git checkout main
+  405  git status
+  406  gitHistoryGraph
+  407  git checkout master
+  408  git checkout main
+  409  git status
+  410  git commit -am "Agrego Master 2"
+  411  gitHistoryGraph
+  412  git checkout experimento
+  413  gitHistoryGraph
+  414  git checkout main
+  415  git checkout experimento
+  416  git push origin experimento
+  417  gitHistoryGraph
+  418  git checkout main
+  419  git push origin main
+  420  gitHistoryGraph
+  421  git checkout experimento
+  422  gitHistoryGraph
+  423  git rebase main
+  424  git push origin main
+  425  git commit -am
+  426  git commit -am "Rebase test"
+  427  git push origin experimento
+  428  git rebase master
+  429  git rebase master --continue
+  430  git rebase master--continue
+  431  git rebase --continue
+  432  gitHistoryGraph
+  433  git checkout master
+  434  git checkout main
+  435  git merge expertimento
+  436  git checkout experimento
+  437  git merge main
+  438  git checkout main
+  439  git merge experimento
+  440  git push origin main
+  441  gitHistoryGraph
+  442  gitk
+  443  git status
+  444  git commit -am "Corrigiendo la historia"
+  445  git push origin main
+  446  gitHistoryGraph
+  447  git shortlog -sn
+  448  history
